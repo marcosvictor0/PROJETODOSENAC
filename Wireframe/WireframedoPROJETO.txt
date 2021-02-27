@@ -1,0 +1,46 @@
+--------------------------------------------------------------------
+WIREFRAME DO PROJETO // INICIO : [ 13 / 02 / 2021 ] //
+--------------------------------------------------------------------
+Wireframes são uma das partes mais importantes de um projeto web, 
+portanto, desenvolver wireframes para web sites é uma etapa que, 
+mesmo frequentemente negligenciada, abandonada, mesmo, não o deveria ser.
+
+Por que fazer wireframes?
+Wireframes realmente são úteis quando você está se comunicando com clientes, 
+pois lhes permite visualizar suas ideias mais facilmente do que quando você apenas 
+as descreve verbalmente. Para casos em que o “cliente” é a próprio empresa em que 
+se trabalha ou para quando se tratam de projetos pessoais, a afirmativa também é verdadeira.
+
+Wireframes x Modelos x Protótipos
+
+Wireframes. São “ilustrações básicas” da estrutura e componentes de uma página web.
+Geralmente são o primeiro passo no processo de design (depois da concepção mental, obviamente).
+
+Modelos. Geralmente focam sobre os elementos de design visual do site. 
+São muitas vezes bastante próximos ou idênticos ao web design final efetivo
+e incluem todos os gráficos, tipografia e outros elementos da página.
+Mockups geralmente são apenas arquivos de imagem.
+
+Protótipos. São layouts semi-funcionais das páginas e servem para dar um preview de 
+maior fidelidade do site real. Esta fase antecede a programação da lógica de negócios do site.
+Enquanto eles não podem ter toda a funcionalidade, eles geralmente dão aos clientes 
+a capacidade de interagir com os elementos e simular a forma como o site irá, eventualmente, 
+trabalhar. Protótipos podem ou não incluir elementos de design finalizado.
+
+
+O que incluir em um wireframe?
+
+Os wireframes devem incluir informações suficientes para refletir o que precisa aparecer em 
+cada página do projeto web. Pense sobre os elementos gerais da maioria das páginas 
+web: cabeçalhos, rodapés, barras laterais, áreas de conteúdo, meta-informação, busca, widgets, gráficos,
+etc. Depois de ter uma idéia do que terá o site, comece a criar os wireframes com base nesses elementos.
+
+
+Processo do wireframe:
+
+Existem muitas variações,
+É provável que você comece com uma lista de coisas que o site precisa incluir ou um documento de 
+especificação formal de design. 
+Outros já gostam de começar com um “olhar geral” do design e ir acrescentando detalhes, 
+uma vez que se tem os fundamentos básicos do layout.
+
