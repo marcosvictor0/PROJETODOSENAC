@@ -22,5 +22,5 @@ const sql_create = `CREATE TABLE usuario (
     if (err) {
       return console.error(err.message);
     }
-    console.log("Sua Tabela de Comidas foi criada com sucesso");
+    console.log("Sua Tabela de usuario foi criada com sucesso");
 });
