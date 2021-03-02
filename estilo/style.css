@@ -65,7 +65,7 @@ body {
 #imagem1 figcaption{
     position: absolute;
     top: 190px;
-    right: 65%;
+    right: 60%;
     font-size: 20px;
     color: var(--white);
     text-align: center;
