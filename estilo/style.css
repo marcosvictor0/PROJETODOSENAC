@@ -96,7 +96,7 @@ body {
     border: none;
 }
 
-.Power{
+.feeding{
     background-color: var(--white);
     border: none;
 }
@@ -428,6 +428,16 @@ body {
     padding: 30px;
 }
 
+.infosabout {
+    position: relative;
+    width: 95%;
+    height: 500px;
+    left: 44px;
+    top: 20px;
+    background: #3EC6FF;
+    margin-bottom: 5%;
+}
+
 /* FOOTER */
 
 .footerbox {
@@ -543,3 +553,22 @@ body {
     border-radius: 10px;
 }
 
+/*H1 e P */
+
+.h1about {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: var(--white)
+}
+
+.pabout {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 200px;
+    color: var(--white);
+}
