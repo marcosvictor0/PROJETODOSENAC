@@ -1,0 +1,4 @@
+
+1-colocar o usuario do elephant no visual, 2- tbm colocar o usuario no lugar do database do visual, 3-pegar o servidor la do elephant e colocar no host do vscode, 4- pegar a senha la do elephant e colocar no vscode, dps colocar o URL la do elephant e colocaar no host do vscode
+
+1-colocar o usuario do elephant no visual, 2- tbm colocar o usuario no lugar do database do visual, 3-pegar o servidor la do elephant e colocar no host do vscode, 4- pegar a senha la do elephant e colocar no vscode
