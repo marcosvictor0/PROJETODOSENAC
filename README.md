@@ -1,6 +1,8 @@
 # PROJETODOSENAC
 **Projeto do Senac feito com HTML, CSS, JS, Express e back-end**
 
+***Protótipo do site feito pelo Figma***
+
 <hr>
 
 **Primeira página do site index.html**
