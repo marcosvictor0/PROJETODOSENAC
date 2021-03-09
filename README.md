@@ -1,5 +1,5 @@
 # PROJETODOSENAC
-**Projeto do Senac feito com Express e back-end**
+**Projeto do Senac feito com HTML,CSS,Express e back-end**
 **Primeira página do site index.html**
 <hr>
 <img src="https://i.pinimg.com/originals/9e/c9/0c/9ec90caa17d84442188108122ec51b6e.png" alt="Imagem da primeira página do site.">
