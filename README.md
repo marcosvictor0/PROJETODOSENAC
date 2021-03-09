@@ -2,6 +2,7 @@
 **Projeto do Senac feito com HTML, CSS, JS, Express e back-end**
 
 <hr>
+
 **Primeira página do site index.html**
 
 <img src="https://i.pinimg.com/originals/9e/c9/0c/9ec90caa17d84442188108122ec51b6e.png" alt="Imagem da primeira página do site.">
